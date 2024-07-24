@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4784a1b340efd4fb73ff2aa2d5a7dd, type: 3}
+  m_Name: Mongua
+  m_EditorClassIdentifier: 
+  ItemName: Mongua
+  ItemImage: {fileID: 21300000, guid: 0b5565d0f4fcb71458725ce83218e4c3, type: 3}
+  Item3DModel: {fileID: 6373358315720328626, guid: 9cb8242ef71eb704d82a198640597cf1, type: 3}

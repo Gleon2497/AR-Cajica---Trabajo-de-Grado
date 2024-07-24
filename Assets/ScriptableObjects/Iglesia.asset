@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4784a1b340efd4fb73ff2aa2d5a7dd, type: 3}
+  m_Name: Iglesia
+  m_EditorClassIdentifier: 
+  ItemName: Iglesia
+  ItemImage: {fileID: 21300000, guid: bd2761f32c8bb0c4fbf13b83f43ee67c, type: 3}
+  Item3DModel: {fileID: 6875758043758031411, guid: 2875a2b3041d89244bf4a2dcb9093676, type: 3}
