@@ -8,7 +8,7 @@
 [![Ver Demostración de AR Cajicá](https://img.youtube.com/vi/zBFypB8OiU0/0.jpg)](https://www.youtube.com/shorts/zBFypB8OiU0)
 
 > [!TIP]
-> [cite_start]Haz clic en la imagen de arriba para ver la demostración del aplicativo en YouTube Shorts. [cite: 1114, 1321]
+> Haz clic en la imagen de arriba para ver la demostración del aplicativo en YouTube Shorts.
 
 ---
 
