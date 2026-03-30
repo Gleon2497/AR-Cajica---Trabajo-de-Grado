@@ -4,9 +4,13 @@
 
 ---
 
-## 📺 Demostración
-> [!IMPORTANT]
-> Puedes visualizar el funcionamiento de la aplicación en el siguiente video. (Para que funcione, sube tu video a la carpeta raíz y reemplaza `TU_VIDEO.mp4` con el nombre real del archivo).
+## 📺 Demostración en Video
+[![Ver Demostración de AR Cajicá](https://img.youtube.com/vi/ID_DE_TU_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DE_TU_VIDEO)
+
+> [!TIP]
+> [cite_start]Haz clic en la imagen de arriba para ver la demostración del aplicativo en YouTube Shorts. [cite: 1114, 1321]
+
+---
 
 <p align="center">
   <video src="ARCajicaPrueba.mp4" width="800"></video>
